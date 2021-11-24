@@ -1,7 +1,12 @@
 # WEB-Olympicanalysis
 PHP HTML JS CSS
-Extracted from year one course work
+Extracted from year one coursework
 
+Main Function:
+Auto complete of searching using js
+simple css animation trigger by user event with js
+
+Coursework requirement
 Design your own webpage (starting from view.php), which allows a user to input a country ISO_id values and outputs:
 1. the number of gold medals that the country won,
 2. the country’s gold medal ranking amongst all the countries,
